@@ -1,5 +1,5 @@
 {
-  "name": "html2pdf.js",
+  "name": "@Nobe-team/html2pdf.js",
   "version": "0.10.3",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/html2pdf.js",
@@ -27,8 +27,8 @@
   "homepage": "https://ekoopmans.github.io/html2pdf.js/",
   "dependencies": {
     "es6-promise": "^4.2.5",
-    "html2canvas": "^1.0.0",
-    "jspdf": "^3.0.0"
+    "html2canvas-pro": "^1.5.8",
+    "jspdf": "^3.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
