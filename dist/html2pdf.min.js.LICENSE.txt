@@ -1,5 +1,5 @@
 /*!
- * @Nobe-team/html2pdf.js v1.0.2
+ * @Nobe-team/html2pdf.js v1.0.3
  * Copyright (c) 2025 Erik Koopmans
  * Released under the MIT License.
  */
