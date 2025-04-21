@@ -1,9 +1,9 @@
 {
   "name": "@Nobe-team/html2pdf.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/html2pdf.js",
-  "types": "./type.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "/src",
     "/dist"
